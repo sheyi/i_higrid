@@ -1,0 +1,17 @@
+auto: true
+pygments: true
+github: higrid
+
+author:
+  name: She Yi
+  email: sheyee@163.com
+  gravatar: 0bc83cb571cd1c50ba6f3e8a78ef1346
+  twitter: higridnet
+
+analytics: 'UA-30786953-1'
+
+repos:
+  - name: higrid
+    description: php jqgrid
+  - name: higridcms
+    description: higrid cms and blog
